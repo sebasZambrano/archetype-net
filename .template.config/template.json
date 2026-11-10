@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Johan Sebastián Zambrano Polanco",
+  "classifications": [ "Hexagonal", "Architecture", "Clean Architecture" ],
+  "identity": "ArchetypeNet",
+  "name": "Arquetipo Arquitectura Hexagonal .NET",
+  "shortName": "archetypenet",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "MyApp",
+  "preferNameDirectory": true
+}
